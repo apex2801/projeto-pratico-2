@@ -1,0 +1,1 @@
+# sequenciasPARES-RETANGULOS-
