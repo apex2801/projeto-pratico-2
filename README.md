@@ -1,1 +1,1 @@
-# sequenciasPARES-RETANGULOS-
+# projeto pratico-
